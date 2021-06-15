@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  Fonctionnement du jeu on Synapse Project</title>
-    <link>https://example.com/reglejeu/</link>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
+    <link>https://synapsesite.github.io/reglejeu/</link>
     <description>Recent content in   Fonctionnement du jeu on Synapse Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://example.com/reglejeu/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://synapsesite.github.io/reglejeu/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
